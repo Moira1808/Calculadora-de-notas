@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Notas",
+  "description": "Aplicación para calcular promedios universitarios con 'Modo Salvación 9.5' incorporado, soporte offline y gestor interactivo en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
